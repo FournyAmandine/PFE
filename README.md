@@ -113,7 +113,7 @@ Développer une application web de type marketplace spécialisée dans le matér
 
 ---
 
-## 👥 Les différenst profils
+## 👥 Les différents profils
 
 - **Particulier**
   - Publie, recherche, vend, loue ou donne du matériel médical
@@ -137,7 +137,7 @@ Ces personas permettent d’illustrer des scénarios concrets d’utilisation de
 ## 👩‍🦽 Marie – Particulier vendeuse de matériel médical
 
 **Âge :** 56 ans  
-**Profil :** Aide familiale, mère d’un ancien patient en rééducation  
+**Profil :** Aide familiale
 **Objectif principal :** Vendre ou donner du matériel médical devenu inutile
 
 ### 🧩 Scénario 1 – Publier une annonce de matériel
@@ -194,8 +194,6 @@ Il consulte plusieurs annonces, compare les états et les prix, puis ouvre la fi
 ### 🧩 Scénario 2 – Contacter un particulier
 
 Depuis la fiche du produit, Julien clique sur « Contacter le vendeur ».  
-Un message pré-rempli lui permet d’expliquer le contexte (besoin temporaire pour un patient).
-
 Le particulier reçoit le message et une discussion s’engage via la messagerie interne.
 
 Grâce à CareTogether, Julien peut rapidement proposer une solution adaptée à son patient, tout en favorisant le réemploi du matériel.
@@ -314,7 +312,3 @@ Ces scénarios montrent que CareTogether :
 
 ### Espace administrateur
 - Tableau de bord administrateur
-- Gestion des utilisateurs
-- Gestion des annonces
-- Gestion des catégories
-- Modération et signalements
