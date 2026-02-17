@@ -307,6 +307,7 @@ Ces scénarios montrent que CareTogether :
 - Mes annonces professionnelles
 - Ajouter / modifier une annonce professionnelle
 - Messagerie
+- Favoris
 
 ### Espace administrateur
 - Tableau de bord administrateur
