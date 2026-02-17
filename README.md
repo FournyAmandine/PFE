@@ -284,11 +284,9 @@ Ces scénarios montrent que CareTogether :
 - Recherche de matériel
 - Page détail d’une annonce
 - Page À propos
-- Page FAQ
 - Page Contact
 - Mentions légales
 - Politique de confidentialité
-- Conditions d’utilisation
 
 ### Pages d’authentification
 - Inscription
